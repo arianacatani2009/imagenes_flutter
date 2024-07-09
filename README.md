@@ -14,6 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Al abrirse la pagina se va a ejecutar esto y se va a poder visualizar cada uno de los centro turisticos de Ecuador
 ![image](https://github.com/arianacatani2009/imagenes_flutter/assets/134402331/ff41743e-510a-41b6-8dc7-31f613def207)
 
 
